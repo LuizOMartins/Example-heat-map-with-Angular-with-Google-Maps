@@ -7,6 +7,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - https://developers.google.com/maps/documentation/javascript/examples/layer-heatmap
 
 
+Visão geral
+Um mapa de calor é uma visualização usada para representar a intensidade dos dados em pontos geográficos. Quando a camada de mapa de calor está ativada, uma sobreposição colorida aparecerá na parte superior do mapa. Por padrão, as áreas de maior intensidade serão coloridas em vermelho e as áreas de menor intensidade aparecerão em verde.
+
+**Documentação:**
+- https://developers.google.com/maps/documentation/javascript/heatmaplayer
+
+
+
 **Requisitos**: API KEY Google com acessoa as APIs:
 -   Directions API
 - Maps JavaScript API
